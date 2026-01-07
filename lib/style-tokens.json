@@ -1,0 +1,25 @@
+{
+  "colors": {
+    "primary": "#1e40af",
+    "secondary": "#0ea5e9",
+    "accent": "#f97316",
+    "background": "#f8fafc",
+    "surface": "#ffffff",
+    "text": "#0f172a",
+    "mutedText": "#64748b",
+    "border": "#e2e8f0",
+    "primaryForeground": "#ffffff"
+  },
+  "typography": {
+    "heading": "Manrope",
+    "body": "Plus Jakarta Sans"
+  },
+  "radii": {
+    "sm": "8px",
+    "md": "12px",
+    "lg": "24px"
+  },
+  "shadow": {
+    "soft": "0 12px 30px rgba(15, 23, 42, 0.12)"
+  }
+}
